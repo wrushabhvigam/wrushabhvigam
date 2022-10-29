@@ -1,3 +1,4 @@
+![logo](https://729solutions.com/static/github-white-2ffa9db8c744260083289a6da771d8bc.png)
 <h1 align="center">Hi 👋, I'm Wrushabh Vigam</h1>
 <h3 align="center">A passionate Software developer, Java developer and Data Analyst from India</h3>
 
